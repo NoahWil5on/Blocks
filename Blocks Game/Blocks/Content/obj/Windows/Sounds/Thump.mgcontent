@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Noah Wilson/Desktop/Blocks Game/Blocks/Content/Sounds/Thump.wav</SourceFile>
+  <SourceFile>C:/Users/Noah Wilson/Documents/Blocks/Blocks Game/Blocks/Content/Sounds/Thump.wav</SourceFile>
   <SourceTime>2016-07-04T12:14:33.2173869-04:00</SourceTime>
-  <DestFile>C:/Users/Noah Wilson/Desktop/Blocks Game/Blocks/Content/bin/Windows/Sounds/Thump.xnb</DestFile>
-  <DestTime>2016-10-05T20:45:36.5797595-04:00</DestTime>
+  <DestFile>C:/Users/Noah Wilson/Documents/Blocks/Blocks Game/Blocks/Content/bin/Windows/Sounds/Thump.xnb</DestFile>
+  <DestTime>2016-10-11T16:33:34.0114735-04:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2016-03-15T22:18:04-04:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>
